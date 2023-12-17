@@ -30,10 +30,15 @@ transform_data_contrastive_loss("/data/train_TOEFL.json", "train_TOEFL_processed
 ## Additional Repository Content Explanations 
 
 ### Data Transformations Folder
+This folder contains 
+
 
 ### EDA Folder
+This folder contains [data_exploration_RACE.ipynb](https://github.com/anastasia-s02/QA-system-for-MCQ/blob/main/EDA/data_exploration_RACE.ipynb) file that shows our Exploritory Data Analysis for the RACE dataset.
 
 ### MQAG_testing Folder
+This folder contains [MQAG_Testing.ipynb](https://github.com/anastasia-s02/QA-system-for-MCQ/blob/main/MQAG_testing/MQAG_Testing.ipynb) file that shows implementation of MQAG model on our RACE and TOEFL datasets. We can see that the model has high accuracy on both datasets in predicitng the correct answer, but it does not have the ability to corroborate the chosen answer. Due to this we do not know how the model is making a choice (black-box) thus the model lacks interpretability.
+
 
 ### testing_script_GenMC Folder
 
