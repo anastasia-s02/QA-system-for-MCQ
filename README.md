@@ -11,7 +11,7 @@ This repo...
 ## Download data
 
 **Please download the datasets (in .json format) and put them into the folder "./data". The following sections will need them.** <br>
-URL: [Datasets](https://drive.google.com/drive/folders/15NI1k_np1-ZCgIdZzAkwI9xO8Zqsg4C0)
+URL: [Datasets](https://drive.google.com/drive/folders/1zXiU0i5Ma2Km0ce3TjEwyjQw2SbzA3C-?usp=sharing)
 
 
 ## Data transformations
