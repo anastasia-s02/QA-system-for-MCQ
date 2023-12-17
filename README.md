@@ -24,3 +24,16 @@ To transform your raw data to the format that contrastive loss requires (key, po
 import Dataset_Transformations/data_transformation.py
 transform_data_contrastive_loss("/data/train_TOEFL.json", "train_TOEFL_processed_contrastive_loss")
 ```
+
+
+
+## Additional Repository Content Explanations 
+
+### Data Transformations Folder
+
+### EDA Folder
+
+### MQAG_testing Folder
+
+### testing_script_GenMC Folder
+
