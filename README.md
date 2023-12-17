@@ -1,6 +1,6 @@
 # Efficient Grounded QA System for Multiple Choice Questions
 
-This repo...
+In this repository we have developed an Efficient Grounded QA System for Multiple Choice Questions. Our model utilizes InfoNCE loss which significantly enhances its ability to differentiate between correct and incorrect answers. Our objective was to create accurate and intepratable model that finds the correct answer to a multiple choice question when given context, question and options. In addition to answering the question by choosing one of the multiple choice options, our model returns corroborating sentence that led it to the chosen answer.
 
 
 ## Dependencies
