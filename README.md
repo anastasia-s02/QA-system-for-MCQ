@@ -30,7 +30,11 @@ transform_data_contrastive_loss("/data/train_TOEFL.json", "train_TOEFL_processed
 ## Additional Repository Content Explanations 
 
 ### Data Transformations Folder
-This folder contains 
+This folder contains the previously mentioned notebook [Dataset_Transformation.ipynb](https://github.com/anastasia-s02/QA-system-for-MCQ/blob/main/Dataset%20Transformations/Dataset_Transformation.ipynb) that can be used to mannually transform the datasets to contranstive learning format. Further it can be adapted if dataset used is not in the same raw format as ours was in (more details can be found in the notebook). 
+
+This folder also contains [data_transformation.py](https://github.com/anastasia-s02/QA-system-for-MCQ/blob/main/Dataset%20Transformations/data_transformation.py) that can be used for data transformation as listed above. 
+
+Additionally, our transformed RACE and TOEFL training data can be found in this folder. 
 
 
 ### EDA Folder
